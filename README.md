@@ -2,7 +2,7 @@
 
 
 
-![image](https://github.com/code4review/SIGIR/raw/master/img/intro.png)
+![image](https://github.com/sigir-code/SIGIR/raw/master/img/intro.png)
 
 ## Requirements
 
